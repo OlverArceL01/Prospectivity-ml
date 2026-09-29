@@ -11,11 +11,5 @@ wheels/
 
 .env
 
-data/*
-!data/.gitkeep
-
 images/*
 !images/.gitkeep
-
-models/*
-!models/.gitkeep
