@@ -21,6 +21,7 @@ app.add_middleware(
     allow_origins=[
     # "http://localhost:4200",
     "https://prospectivity.olver.site",
+    "https://prospectivity.olver.cl",
     ],
     allow_credentials=True,
     allow_methods=["*"],
